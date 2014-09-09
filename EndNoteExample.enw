@@ -1,0 +1,223 @@
+%0 Journal Article
+%J Knowledge and Information Systems
+%D 2010
+%T OntoMap: an ontology-based architecture to perform the semantic mapping between an interlingua and software components
+%A Linhalis, F.
+%A Fortes, R. P. D.
+%A Moreira, D. D.
+%M ISI:000275444000003
+%N 3
+%P 319-345
+%R 10.1007/s10115-009-0197-z
+%U <Go to ISI>://000275444000003
+%V 22
+%X This paper is about the use of natural language to communicate with computers. Most researches that have pursued this goal consider only requests expressed in English. A way to facilitate the use of several languages in natural language systems is by using an interlingua. An interlingua is an intermediary representation for natural language information that can be processed by machines. We propose to convert natural language requests into an interlingua [universal networking language (UNL)] and to execute these requests using software components. In order to achieve this goal, we propose OntoMap, an ontology-based architecture to perform the semantic mapping between UNL sentences and software components. OntoMap also performs component search and retrieval based on semantic information formalized in ontologies and rules.
+%Z Linhalis, Flavia de Mattos Fortes, Renata Pontin Moreira, Dilvan de Abreu
+%8 Mar
+%@ 0219-1377
+
+%0 Journal Article
+%J Bioinformatics
+%D 2007
+%T OBO to OWL: a protege OWL tab to read/save OBO ontologies
+%A Moreira, D. A.
+%A Musen, M. A.
+%M ISI:000249248300030
+%N 14
+%P 1868-1870
+%R 10.1093/bioinformatics/btm258
+%U <Go to ISI>://000249248300030
+%V 23
+%X The Open Biomedical Ontologies (OBO) format from the GO consortium is a very successful format for biomedical ontologies, including the Gene Ontology. But it lacks formal computational definitions for its constructs and tools, like DL reasoners, to facilitate ontology development/maintenance. We describe the OBO Converter, a Java tool to convert files from OBO format to Web Ontology Language (OWL) (and vice versa) that can also be used as a Protege Tab plug-in. It uses the OBO to OWL mapping provided by the National Center for Biomedical Ontologies (NCBO) (a joint effort of OBO developers and OWL experts) and offers options to ease the task of saving/reading files in both formats.
+%Z Moreira, Dilvan A. Musen, Mark A.
+%8 Jul
+%@ 1367-4803
+
+%0 Journal Article
+%J AMIA Annu Symp Proc
+%D 2007
+%T Interpretation errors related to the GO annotation file format.
+%A Moreira, D. A.
+%A Shah, NH
+%A Musen, M. A.
+%K Animals
+%K Databases, Genetic
+%K Databases, Protein
+%K Genes
+%K Humans
+%K Proteins
+%K Vocabulary, Controlled
+%M 18693894
+%P 538-42
+%U http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=18693894
+%X The Gene Ontology (GO) is the most widely used ontology for creating biomedical annotations. GO annotations are statements associating a biological entity with a GO term. These statements comprise a large dataset of biological knowledge that is used widely in biomedical research. GO Annotations are available as "gene association files" from the GO website in a tab-delimited file format (GO Annotation File Format) composed of rows of 15 tab-delimited fields. This simple format lacks the knowledge representation (KR) capabilities to represent unambiguously semantic relationships between each field. This paper demonstrates that this KR shortcoming leads users to interpret the files in ways that can be erroneous. We propose a complementary format to represent GO annotation files as knowledge bases using the W3C recommended Web Ontology Language (OWL).
+%@ 1942-597X
+
+%0 Book Section
+%B Flexible Query Answering Systems, Proceedings
+%D 2006
+%T Ontology-Based Application Server to the execution of imperative natural language requests
+%A Linhalis, F.
+%A Moreira, D. D.
+%E Larsen, H. L.
+%E Pasi, G.
+%E OrtizArroyo, D.
+%E Andreasen, T.
+%E Christiansen, H.
+%M ISI:000238575000050
+%P 589-600
+%S Lecture Notes in Computer Science
+%U <Go to ISI>://000238575000050
+%V 4027
+%X This paper is about using ontologies to help the execution of imperative requests expressed in natural language. In order to achieve this goal, we developed the prototype of an Ontology-Based Application Server to the execution of Natural Language requests (NL-OBAS). The NL-OBAS provides services to allow users to describe requests in several natural languages and uses software components to execute them. One of the advantages of our approach is that natural language is first converted to an interlingua, UNL (Universal Networking Language). The interlingua allows the use of different human languages to express the requests (other systems are restricted to English). The semantics of the interlingua, enhanced by ontologies, is used to retrieve the appropriated software components to compose a dynamic service to execute the requests expressed in natural language.
+%Z Linhalis, Flavia Moreira, Dilvan de Abreu7th International Conference on Flexible Query Answering SystemsJUN 07-10, 2006Milan, ITALY
+%@ 3-540-34638-4
+
+%0 Book
+%B International Conference on Next Generation Web Services Practices
+%D 2005
+%T Developing customizable Web-based educational applications through a component-based framework
+%A da Silva, E. Q.
+%A Moreira, D. D.
+%E Abraham, A.
+%E Han, S. Y.
+%E Du, H. C.
+%E Paprzycki, M.
+%M ISI:000234641600061
+%P 394-399
+%U <Go to ISI>://000234641600061
+%X Although there are many Internet-based educational applications available today, they usually do not allow functionality extensions, change or reuse. In this context, this paper presents a framework - the WebMODE, based on the J2EE component architecture, for helping the development of more customizable educational applications. This framework merges important features from popular Content Management Systems (such as pluggable modules) to the Model View Controller architecture, found in popular frameworks for web development.
+%Z International Conference on Next Generation Web Services PracticesAUG 22-26, 2005Seoul, SOUTH KOREA
+%@ 0-7695-2452-4
+
+%0 Book
+%B 5th IEEE International Conference on Advanced Learning Technologies, Proceedings
+%D 2005
+%T WebMODE: A framework for development of web-based tools for management of educational activities
+%A da Silva, E. Q.
+%A Moreira, D. D. A.
+%E Goodyear, P.
+%E Sampson, D. G.
+%E Yang, D. J. T.
+%E Kinshuk, X.
+%E Okamoto, T.
+%E Hartley, R.
+%E Chen, N. S.
+%M ISI:000230898800267
+%P 922-924
+%U <Go to ISI>://000230898800267
+%X Although there are many Internet-based educational applications available today, they usually do not allow functionality extensions, change or reuse. In this context, this paper presents a framework, based on the J2EE component architecture, for helping the development of more customizable educational applications. In order to reach its goal, it merges significant features from popular CMS (such as pluggable modules) to the WC architecture, found in most popular frameworks for web development.
+%Z 5th IEEE International Conference on Advanced Learning TechnologiesJUL 05-08, 2005Kaohsiung, TAIWAN
+%@ 0-7695-2338-2
+
+%0 Journal Article
+%J Journal on Educational Resources in Computing
+%D 2003
+%T WebCoM
+%A Silva, Elaine Q.
+%A Moreira, Dilvan de Abreu
+%N 1
+%P 3 - es
+%R 10.1145/958795.958798
+%U http://portal.acm.org/citation.cfm?doid=958795.958798
+%V 3
+%8 03/2003
+
+%0 Book
+%B Vlsi'03: Proceedings of the International Conference on Vlsi
+%D 2003
+%T Multithreaded parallel VLSI leaf cell generator using agents 2
+%A Jardini, E. D.
+%A Moreira, D.
+%E Arabnia, H. R.
+%E Yang, L. T.
+%M ISI:000186759100031
+%P 190-194
+%U <Go to ISI>://000186759100031
+%X This work presents the Agents 2 system, developed using software agent technology and the Java language, to automate the generation of VLSI leaf cells. It also highlights the interconnection prediction methods used in the system and show how they contribute to help layout generation. Many agents (implemented as servers) compose the Agents 2 system: one Placer server (to place the cell's components) and many Router servers (to interconnect the components in a cell). The servers have the capacity to explore parallel computers (SMP) and to work distributed over a computer network System scalability increases as new CPUs are added to the computers or new computers are added to the network.
+%Z International Conference on VLSIJUN 23-26, 2003LAS VEGAS, NV
+%@ 1-932415-10-6
+
+%0 Book
+%B 14th Symposium on Integrated Circuits and Systems Design, Proceedings
+%D 2001
+%T Designing VLSI circuit masks with the software Agents2
+%A Jardini, E. D.
+%A Moreira, D. D.
+%E Jacobi, R.
+%E Ferrari, A.
+%E Carro, L.
+%M ISI:000171608800027
+%P 168-173
+%U <Go to ISI>://000171608800027
+%X The traditional way for creating layout for Application Specific Integrated Circuits (ASICs) demands that a human designer interacts with a computer program. This program usually uses a layout generation methodology based in standard cell libraries,. This methodology is effective for designing ASICs circuits because the processes for layout generation can be automated, reducing the time spent in designing circuits and increasing their reliability. However, this methodology has problems related to the maintenance of the cell libraries and to, the total number and variety of cells available, as some calls required in a project may not exists in the library forcing design adaptations. The Agents2 system was developed, using the software agent technology and the Java language, to automate the generation of standard cell libraries, Many agents (implemented as servers) compose the system: one Placer (that places the components of a circuit) and many Routers (that wires the circuits' components). The servers have the capacity to explore parallel computers (SMP) and to work distributed over a computer network. System scalability increases as new CPUs are added to the computers or new computers are added to the network.
+%Z 14th Symposium on Integrated Circuits and Systems DesignSEP 10-15, 2001PIRENOPOLIS, BRAZIL
+%@ 0-7695-1333-6
+
+%0 Journal Article
+%J Ieee Expert-Intelligent Systems & Their Applications
+%D 1997
+%T Using software agents to generate VLSI layouts
+%A Moreira, D. D.
+%A Walczowski, L. T.
+%M ISI:A1997YH99300007
+%N 6
+%P 26-32
+%U <Go to ISI>://A1997YH99300007
+%V 12
+%X Software agents can provide flexibility and scalability in a client-server architecture. To demonstrate how agents can aid layout generation, the authors created agents, a scalable distributed system that generates full-custom digital and mixed-signal VLSI layouts implemented in CMOS or BICMOS technologies.
+%8 Nov-Dec
+%@ 0885-9000
+
+%0 Journal Article
+%J ACM Transactions on Design Automation of Electronic Systems
+%D 1997
+%T AGENTS: a distributed client-server system for leaf cell generation
+%A Moreira, Dilvan de Abreu
+%A Walczowski, Les T.
+%N 1
+%P 42 - 61
+%R 10.1145/250243.250248
+%U http://portal.acm.org/citation.cfm?doid=250243.250248
+%V 2
+
+%0 Book
+%B Icecs 96 - Proceedings of the Third Ieee International Conference on Electronics, Circuits, and Systems, Vols 1 and 2
+%D 1996
+%T Placement optimization using behavior based software agents and the genetic algorithm
+%A Moreira, D. D.
+%A Walczowski, L. T.
+%A Ieee
+%M ISI:A1996BH56B00064
+%P 255-258
+%U <Go to ISI>://A1996BH56B00064
+%X Agents are defined as software components that communicate with their peers by exchanging messages in a communication language. They are used in the placer server of the Agents system, a distributed, client-server system that generates mask level layout of full custom VLSI leaf cells. The system is formed from four server programs: the Placer, Router, Database and Broker. This paper describes the placer server which uses groups of these small software agents and the genetic algorithm to place optimally the components of a leaf cell.
+%Z 3rd IEEE International Conference on Electronics, Circuits, and Systems (ICECS 96)OCT 13-16, 1996RHODES, GREECE
+%@ 0-7803-3650-X
+
+%0 Journal Article
+%J ACM SIGPLAN OOPS Messenger
+%D 1995
+%T A leaf-cell generator for silicon compilers
+%A Moreira, Dilvan de Abreu
+%A Walczowski, Les T.
+%N 3
+%P 50 - 51
+%R 10.1145/219260.219267
+%U http://portal.acm.org/citation.cfm?doid=219260.219267
+%V 6
+%8 07/1995
+
+%0 Book
+%B 1994 Ieee International Symposium on Circuits and Systems, Vol 1 - Computer Aided Design
+%D 1994
+%T AUTOMATED PLACEMENT FOR A LEAF CELL GENERATOR
+%A Moreira, D. D.
+%A Walczowski, L. T.
+%A Ieee
+%M ISI:A1994BB77W00030
+%P A117-A120
+%U <Go to ISI>://A1994BB77W00030
+%Z CAD1994 IEEE International Symposium on Circuits and SystemsMAY 30-JUN 02, 1994LONDON, ENGLAND
+%@ 0-7803-1915-X
+
