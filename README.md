@@ -8,7 +8,7 @@ The Lattes XML to EndNote tab format bibliographic references extractor and conv
 You will need a Java Virtual Machine (JVM) installed in your computer. If you do not have one, install it free from the [Java site] (https://java.com/en/download/index.jsp).
 Just download the executables:
 * For Macs: Get the zip file [Lattes2Endnote.zip] (https://github.com/dilvan1/Lattes2Endnote/raw/master/Lattes2Endnote.zip) and unzip it.
-* For Windows and Linux: Get the jar file [Lattes2Endnote.zip] (https://github.com/dilvan1/Lattes2Endnote/raw/master/Lattes2Endnote.jar) and click on it. This file works also in Macs.
+* For Windows and Linux: Get the jar file [Lattes2Endnote.jar] (https://github.com/dilvan1/Lattes2Endnote/raw/master/Lattes2Endnote.jar) and click on it. This file works also in Macs.
 
 ##To run
 
