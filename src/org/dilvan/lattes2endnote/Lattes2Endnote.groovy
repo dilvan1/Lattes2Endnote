@@ -299,7 +299,7 @@ class Lattes2Endnote {
 					log.append 'Saved command cancelled by user.\n'
 				log.caretPosition = log.document.length
 			}
-			//Do convertion.
+			//Do conversion.
 			start = {
 				log.append 'Processing ...\n'
 				//  Test if file exists, if it does, ask user permission to overwrite it.
